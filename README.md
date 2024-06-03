@@ -4,9 +4,10 @@ Gemini AI App is a versatile application that leverages the Gemini API to provid
 
 ## Demo
 
-<video width="320" height="240" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-</video>
+<img src="assets/demo.gif" width="300" height="600">
+
+
+
 
 ### Tech Used
 
