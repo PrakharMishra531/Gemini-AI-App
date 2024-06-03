@@ -19,8 +19,8 @@ Gemini AI App is a versatile application that leverages the Gemini API to provid
 ## Tech Used
 
 ### Technologies
-![Flutter Logo](https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png)
-![Gemini AI Logo](https://path.to/gemini-ai-logo.png)
+![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png)
+![Gemini AI Logo](https://via.placeholder.com/150?text=Gemini+AI+Logo)
 
 ### Packages
 - **flutter_gemini**: ^2.0.3
